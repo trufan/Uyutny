@@ -15,7 +15,7 @@
 - [ЛС Основателю](https://t.me/i0zgMRV49fX). 
 - Чаты команд: [Design](https://cutt.ly/4wZ8fdO) - [FrontEnd](https://cutt.ly/LwZ8hiU) - [BackEnd](https://cutt.ly/uwZ8GXF) - [DevOps](https://cutt.ly/GwZ8jEy) - [Legal](https://cutt.ly/YwZ8kpE) - [Marketing](https://cutt.ly/swZ8kYK) - [PR](https://cutt.ly/WwZ8k2u) 
 
-## Относительно платформы GrandCore 
+## Относительно платформы Uyutny 
 - [Документация](https://github.com/grandcore/Uyutny/tree/master/documentation)
 - [Issues](https://github.com/grandcore/Uyutny/issues) (обсуждение задач, вопросов, предложений)
 - [Карты и Схемы](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=%D0%9A%D0%B0%D1%80%D1%82%D0%B0%20-%20Uyutny#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D12o7AiWA0I6_B-vt-wRzG-QTPWp-vV20U%26export%3Ddownload)
